@@ -2,4 +2,6 @@
   (version 7)
   (lib (name "kb2040")(type "KiCad")(uri "C:/Users/natha/Documents/GitProjects/Synthropy.KB.Vol1/HARDWARE/KICAD/COMPONENTS/kb2040.pretty")(options "")(descr ""))
   (lib (name "Pro-Micro")(type "KiCad")(uri "C:/Users/natha/Documents/GitProjects/Synthropy.KB.Vol1/HARDWARE/KICAD/COMPONENTS/Pro-Micro.pretty")(options "")(descr ""))
+  (lib (name "Keebio-Parts.pretty-master")(type "KiCad")(uri "C:/Users/natha/Documents/GitProjects/Synthropy.KB.Vol1/HARDWARE/KICAD/COMPONENTS/Keebio-Parts.pretty-master")(options "")(descr ""))
+  (lib (name "Switch_Keyboard_Kailh")(type "KiCad")(uri "C:/Users/natha/Documents/GitProjects/Synthropy.KB.Vol1/HARDWARE/KICAD/COMPONENTS/Switch_Keyboard_Kailh.pretty")(options "")(descr ""))
 )

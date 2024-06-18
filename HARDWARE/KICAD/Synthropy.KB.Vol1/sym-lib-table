@@ -1,6 +1,7 @@
 (sym_lib_table
   (version 7)
-  (lib (name "Pro_Micro")(type "KiCad")(uri "C:/Users/natha/Documents/GitProjects/Synthropy.KB.Vol1/HARDWARE/KICAD/COMPONENTS/Pro_Micro.kicad_sym")(options "")(descr ""))
-  (lib (name "muControllers_rp2040")(type "KiCad")(uri "C:/Users/natha/Documents/GitProjects/Synthropy.KB.Vol1/HARDWARE/KICAD/COMPONENTS/muControllers_rp2040.kicad_sym")(options "")(descr ""))
   (lib (name "kb2040")(type "KiCad")(uri "C:/Users/natha/Documents/GitProjects/Synthropy.KB.Vol1/HARDWARE/KICAD/COMPONENTS/kb2040.kicad_sym")(options "")(descr ""))
+  (lib (name "kbd")(type "KiCad")(uri "C:/Users/natha/Documents/GitProjects/Synthropy.KB.Vol1/HARDWARE/KICAD/COMPONENTS/kbd.kicad_sym")(options "")(descr ""))
+  (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "C:/Users/natha/Documents/GitProjects/Synthropy.KB.Vol1/HARDWARE/KICAD/COMPONENTS/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name "WS2812B")(type "KiCad")(uri "C:/Users/natha/Documents/GitProjects/Synthropy.KB.Vol1/HARDWARE/KICAD/COMPONENTS/WS2812B.kicad_sym")(options "")(descr ""))
 )
