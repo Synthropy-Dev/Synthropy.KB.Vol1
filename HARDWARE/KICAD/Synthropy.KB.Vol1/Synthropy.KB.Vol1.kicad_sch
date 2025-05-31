@@ -1293,11 +1293,6 @@
     (stroke (width 0) (type default))
     (uuid 889bae4f-e1dd-41d3-878f-8ff76c9bb2fa)
   )
-  (polyline (pts (xy 119.634 195.072) (xy 120.396 195.072))
-    (stroke (width 0.5) (type dash))
-    (uuid 8963c3bf-0fd5-4a8c-9017-e44684111d43)
-  )
-
   (wire (pts (xy 194.056 73.914) (xy 194.056 94.234))
     (stroke (width 0) (type default))
     (uuid 8997782a-1c2b-4027-ad2b-d0e8778962b2)
